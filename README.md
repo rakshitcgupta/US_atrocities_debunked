@@ -124,10 +124,10 @@ No country on earth comes as close to transparency or to the protectinons of pri
 
   Indeed the above review said, "We urge the CIA _not_ to apply the PPD-28's retention rules to [blank] unless it develops a way to avoid over-application of the       Directive." and that, "The CIA, for example, has decided to apply PPD-28 to a broad range of activities, including some that it explicity acknowledged "are not SIGINT." Of course, PPD-28 didn't change NSA's activities that much, as the report notes, "NSA's past practice was to limit all signals intelligence activities, including the dissemination of personal information of non-US persons in disseminated SIGINT products, to those necessary to accomplish its foreign intelligence mission."
 
-One may be forgiven to think this is "just on paper", alas, that is not so. Thousands of declassified pages confirm that these governing laws, policy and guidance are all followed. Where honest mistakes are made, they are corrected promptly. 
+ One may be forgiven to think this is "just on paper", alas, that is not so. Thousands of declassified pages confirm that these governing laws, policy and guidance are all followed. Where honest mistakes are made, they are corrected promptly. 
 Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to 2019.
    
-  - [ST-09-0002](https://archive.org/details/JointIGreviewPSP/page/n129/mode/2up?view=theater) "NSA activity conducted under the PSP was authorised by Foreign Intelligence Surveillance Court (FISC) orders by 17 Janurary 2007, when NSA stopped operating under PSP authority. The NSA Office of the Inspector General (OIG) detected _no intentional misuse of Program authority._"
+ - [ST-09-0002](https://archive.org/details/JointIGreviewPSP/page/n129/mode/2up?view=theater) "NSA activity conducted under the PSP was authorised by Foreign Intelligence Surveillance Court (FISC) orders by 17 Janurary 2007, when NSA stopped operating under PSP authority. The NSA Office of the Inspector General (OIG) detected _no intentional misuse of Program authority._"
    
   - [18th Joint Assessment](https://www.dni.gov/files/icotr/18th_Joint_Assessment.pdf) "Consistent with previous Joint Assessments, no instances of intentional circumvention or violation of those procedures were found during this reporting period."
    
