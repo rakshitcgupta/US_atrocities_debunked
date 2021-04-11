@@ -3,6 +3,7 @@ Correcting the record on US interventions, covert or overt, human rights matters
 Leave your fallacies at the door.
 
 _Definition: An extremely wicked or cruel act, typically one involving physical violence or injury._
+_[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.org/en/genocideprevention/documents/atrocity-crimes/Doc.49_Framework%20of%20Analysis%20for%20Atrocity%20Crimes_EN.pdf): The  term  “atrocity  crimes”  refers  to  three  legally  defined  international  crimes:    genocide, crimes against  humanity  and  war  crimes._ 
 
 > "Around the world, the United States has promoted freedom: We have worked to expand the protection of human rights, end gender-based violence, and defend the freedoms of expression, peaceful assembly, and the press. In promoting these liberties and pushing back against tyranny, corruption, and oppression, we have recognized that universal human rights and fundamental freedoms do not stop at our borders. They are the birthright of people everywhere." - President Barrack Obama, Presidential Proclamation - Human Rights Day and Human Rights Week, 2016
 
