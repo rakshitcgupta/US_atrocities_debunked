@@ -150,6 +150,9 @@ Saddam lied about the effect of these sanctions, by manipulating census data. A 
   
 - In 1980s, US had no involvement in the Turkish coup. According to the list's own wiki citation, the alleged source for the claim clarified in a June 2003 interview, "I did not say to Carter "Our boys did it." It is totally a tale, a myth, It is something Birand fabricated. He knows it, too. I talked to him about it." And, "General Kenan Evren said 'the US did not have pre-knowledge of the coup but we informed them of the coup 2 hours in advance due to our soldiers coinciding with the American community JUSMAT that is in Ankara.'" 
 
+- Despite many allegations, no evidence exists that the US supported either or both sides of the Iran-Iraq conflict.
+It is [confirmed](https://web.archive.org/web/20170124020754/https://www.cia.gov/library/readingroom/docs/CIA-RDP90T01298R000300670001-8.pdf) that the USSR was a major supplier for chemical agents and other gear to Iraq. CIA only, naturally, [monitored](https://www.cia.gov/readingroom/docs/CIA-RDP81B00401R000500030002-5.pdf) the conflict—it is after all—the _Central Intelligence Agency_.
+
 ### Western Hemisphere
 
 ### Africa
