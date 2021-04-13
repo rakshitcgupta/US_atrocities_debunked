@@ -252,6 +252,16 @@ In these circumstances, especially given the fact that many of the U.S. soldiers
   - _[CIA and the Generals](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB284/1-CIA_AND_THE_GENERALS.pdf)_  "illustrates Saigon Station efforts to work with and understand the various military  governments  of  South  Vietnam which followed Diem,  and carefully details CIA attempts to stabilize and urge democratization on the changing military regimes."
 
 - In 1954, the US detonated a series of nuclear bombs to study their yield. This was part of Operation Castle. Due to a [miscalculation](https://www.osti.gov/opennet/servlets/purl/16380885-g1vuWf/16380885.pdf), there was an increase in radiation output than expected. The US Department of Energy estimated that 253 inhabitants of the Marshall Islands were impacted by the radioactive fallout. It is alleged that the US deliberately used the Marshallese as "ginea pigs" for testing radiation. This allegation has been throughouly investigated and is not supported by any evidence. [Operation Castle had no biomedical program](https://www.osti.gov/opennet/servlets/purl/16061854-leUIeE/16061854.pdf). US Military personnel were also exposed to large amounts of radiation, when they thought they were in safe areas of the _expected_ yield.
+
+- In 1945, it has been alleged that Douglas MacArthur pardoned the Japanese unit 731, a unit involved in biological weapons testing.
+During the interrogations for war crimes prosecutions, the members gave up information to the US, however, [no evidence](https://networks.h-net.org/node/20904/reviews/21143/fouraker-harris-factories-death-japanese-biological-warfare-1932-1945) indicates that MacArthur pardoned anyone.
+
+- US Firebombings in Germany and Japan, as well as the use of nuclear weapons fell well within international law at the time As one of the world's leading experts [notes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2924907), "President Truman’s classification of the bombing as a purely military objective has caused  some  historians to speculate that the President  engaged in “self-deception.”4  Under the mid-twentieth century military’s targeting lexicon, however, the President’s understanding of Hiroshima as a military target was accurate. Although Hiroshima was not a military  base as understood today, it was  a “military city”  as it housed the 2d Army Headquarters, which commanded the defense of all of southern Japan.5 The city was also a communications center, a storage point, and an assembly area for troops...  Nagasaki’s  military  industry  made it significant. The  atomic  bomb  landed between  the two principal targets in the city:  the Mitsubishi Steel and Arm Works and  the  Mitsubishi-Uramaki  Ordnance  Works (Torpedo  Works).
+ The atomic strikes on Hiroshima and Nagasaki were lawful under the laws of war existing in 1945. These attacks also represent the only two instances  of  atomic  weapon  strikes in  history. They illustrate the definitional confusion existing with respect  to  the  U.S. lassification  of lawful military  objects exclusive of civilian  objects. If some  historians  believe President Truman  was  engaged in “self-deception” in labeling Hiroshima a military target, those historians may be equally perplexed by modern American usage of law-of-war target labels."
+ 
+ 
+ 
+ 
  
 ## Alleged Internal Repression
 
