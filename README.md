@@ -154,13 +154,13 @@ Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to
 
   None of the above involved "warrantless wiretapping either. It was always the case that to do surveillance on a US person, located in the US or outside the US, or an alian within the US: A warrant is required. PRISM/Upstram collection under FAA Sec. 702 cannot target USPs and are annually approved by FISC. The bulk collection of CDRs also wasn't a wiretap, and required Court order every 90 days. The above records provide details on this, but the following do as well:
  
-  - [ST-14-0002](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/3IGReports-Sealed.pdf) Contains 3 OIG reviews but 14-0002  Covers 702 and 215 authorities. p. 224 for 702's PRISM/Upstream. p. 155 for bulk CDR.
+   - [ST-14-0002](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/3IGReports-Sealed.pdf) Contains 3 OIG reviews but 14-0002  Covers 702 and 215 authorities. p. 224 for 702's PRISM/Upstream. p. 155 for bulk CDR.
 
- - [ODNI Infographic](https://www.dni.gov/files/icotr/Section702-Basics-Infographic.pdf) Provides a very basic rundown of how 702 works, oversight, value.
+  - [ODNI Infographic](https://www.dni.gov/files/icotr/Section702-Basics-Infographic.pdf) Provides a very basic rundown of how 702 works, oversight, value.
 
- - [Covers 702 targeting procedures](https://www.dni.gov/files/documents/icotr/Assessment_Oversight_Compliance_702_Targeting_Procedures-Redacted.pdf) A small read (12 pages).
+  - [Covers 702 targeting procedures](https://www.dni.gov/files/documents/icotr/Assessment_Oversight_Compliance_702_Targeting_Procedures-Redacted.pdf) A small read (12 pages).
 
- - [Fleisch Decl.](https://fas.org/sgp/jud/statesec/jewel-fleisch.pdf) and [Bonanni Decl.](https://fas.org/sgp/jud/statesec/jewel-bonanni-redacted.pdf)
+  - [Fleisch Decl.](https://fas.org/sgp/jud/statesec/jewel-fleisch.pdf) and [Bonanni Decl.](https://fas.org/sgp/jud/statesec/jewel-bonanni-redacted.pdf)
  These two are another good overview, though more basic to an extent, of the evolution from TSP to 702 and 215 authorities, etc.
 also specifically debunks the notion of "key words"
 
