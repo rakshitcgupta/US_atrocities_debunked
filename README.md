@@ -198,6 +198,7 @@ The facts are in fundamental controversy. I find the Court's statement of the fa
   A [thorough investigation](https://beta.documentcloud.org/documents/2702452-Iran-Contra-Minority-Report) over the actual Iran/Contra should be a read for anyone interested in the case.
   
 - It was alleged that the CIA, in El Salvador and Nicaragua supported death squads. This has been a [throroughly debunked](https://archive.org/details/united-states-congressional-serial-set) USSR hoax, to cover their support for such groups through Nicaraguan regime. 
+ 
  "The staff's investigation looked at press reports and materials from private organizations alleging a range of US intelligence activities with reference to death squads. These allegations can be summarized as follows:
   - That US intelligence trained, organized, financed and advised Salvadoran security forces that engaged in death squad activities;
   - That US intelligence was aware of torture and killing by Salvadoran security services and death squads, and in some cases participated in such killings.
