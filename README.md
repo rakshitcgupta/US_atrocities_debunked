@@ -152,6 +152,19 @@ Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to
    
    - [Several](https://assets.documentcloud.org/documents/2809657/Nsa-Ig-Bulk-Nyt-15-0811.pdf) NSA OIG reports confirm in monthly reporting instances of finding no non-compliance. Though it finds issues here and there, and provides recommendations. Not a single case of misuse/abuse was found. 
 
+  None of the above involved "warrantless wiretapping either. It was always the case that to do surveillance on a US person, located in the US or outside the US, or an alian within the US: A warrant is required. PRISM/Upstram collection under FAA Sec. 702 cannot target USPs and are annually approved by FISC. The bulk collection of CDRs also wasn't a wiretap, and required Court order every 90 days. The above records provide details on this, but the following do as well:
+ 
+  - [ST-14-0002](https://www.nsa.gov/Portals/70/documents/news-features/declassified-documents/3IGReports-Sealed.pdf) Contains 3 OIG reviews but 14-0002  Covers 702 and 215 authorities. p. 224 for 702's PRISM/Upstream. p. 155 for bulk CDR.
+
+ - [ODNI Infographic](https://www.dni.gov/files/icotr/Section702-Basics-Infographic.pdf) Provides a very basic rundown of how 702 works, oversight, value.
+
+ - [Covers 702 targeting procedures](https://www.dni.gov/files/documents/icotr/Assessment_Oversight_Compliance_702_Targeting_Procedures-Redacted.pdf) A small read (12 pages).
+
+ - [Fleisch Decl.](https://fas.org/sgp/jud/statesec/jewel-fleisch.pdf) and [Bonanni Decl.](https://fas.org/sgp/jud/statesec/jewel-bonanni-redacted.pdf)
+ These two are another good overview, though more basic to an extent, of the evolution from TSP to 702 and 215 authorities, etc.
+also specifically debunks the notion of "key words"
+
+
 - After the terrorist attack on 9/11, the US responded by sending in s[mall CIA/Special Forces teams](https://www.archives.gov/files/declassification/iscap/pdf/2012-041-doc01.pdf) into Afghanistan. They knew their enemy. "In CTC/SO, we operated on the understanding that the enemy was not Afghanistan, not the Afghan people, and not even the Taliban as a government institution. The enemy was al-Qaida, particularly the terrorists' command and control network and their specific Taliban leadership allies."
 US later invaded Afghanistan. [Legal under US domestic & international law](https://archive.org/details/warinafghanistan85schm)
 The US invaded Iraq because of its [non-compliance with UNSC Resolution 1441](https://archive.org/details/wariniraqlegalan86pedr)
