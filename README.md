@@ -162,8 +162,19 @@ Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to
  These two are another good overview, though more basic to an extent, of the evolution from TSP to 702 and 215 authorities, etc.
 also specifically debunks the notion of "key words"
 
+- In 2003, the US legally invaded Iraq pursaunt to UNSC Resolution 1441. This was preceeded by years of Iraqi non-complinace with prior resolutions + a ceasefire agreement. The popular myth is that the US and UK Governments lied to justify invasion. However, a review of the declassified record shows this claim to be a haox:
+ [Response to the independent report of the UK's Intelligence and Security Committee](https://www.gov.uk/government/publications/government-response-to-the-intelligence-and-security-committee-report-on-iraqi-weapons-of-mass-destruction) concerning Iraq WMDs and in examining  whether  the  available intelligence,  which  informed  the  decision  to  invade  Iraq,  was  adequate  and  properly assessed and whether it was accurately reflected in Government publications. 
+The Committee found the following key conclusions:
+  - 1. The September dossier was endorsed by the whole JIC (ISC Report, paragraph 106).
+  - 2. The  September  dossier  was  founded  on  the  intelligence  assessments  then available (paragraph 107). 
+  - 3. The September dossier was not ’sexed up’ by Alastair Campbell or anyone else (paragraph 108). 
+  - 4. The  JIC  was  not  subjected  to  political  pressures.  Its  independence  and impartiality were not compromised in any way (paragraph 108)
+ A Senate Intelligence Committee study, titled, _[Whether public statements regarding Iraq by US Govt Officials were substantiated by Intelligence information](https://www.intelligence.senate.gov/sites/default/files/publications/110345.pdf)_ found that all public statements by US officials were indeed supported by the intelligence at the time, see page 117 of PDF/133 of scan.
 
-- After the terrorist attack on 9/11, the US responded by sending in s[mall CIA/Special Forces teams](https://www.archives.gov/files/declassification/iscap/pdf/2012-041-doc01.pdf) into Afghanistan. They knew their enemy. "In CTC/SO, we operated on the understanding that the enemy was not Afghanistan, not the Afghan people, and not even the Taliban as a government institution. The enemy was al-Qaida, particularly the terrorists' command and control network and their specific Taliban leadership allies."
+  Another [study](https://web.mit.edu/simsong/www/iraqreport2-textunder.pdf) by the same commitee found that no intelligence was fabricated, or skewed or that analysts were pressured to making an assessment.
+>"The Committee was not presented with  any evidence that intelligence  analysts changed their judgments  as a result of political pressure, altered  or produced  intelligence products to conform  with Administration  policy, or that  anyone even attempted to coerce, influence  or pressure  analysts to do so.  When asked whether  analysts were pressured  in any way to alter their assessments  or make their judgments  conform  with Administration policies, not a single analyst answered yes."
+
+- After the terrorist attack on 9/11, the US responded by sending in [small CIA/Special Forces teams](https://www.archives.gov/files/declassification/iscap/pdf/2012-041-doc01.pdf) into Afghanistan. They knew their enemy. "In CTC/SO, we operated on the understanding that the enemy was not Afghanistan, not the Afghan people, and not even the Taliban as a government institution. The enemy was al-Qaida, particularly the terrorists' command and control network and their specific Taliban leadership allies."
 US later invaded Afghanistan. [Legal under US domestic & international law](https://archive.org/details/warinafghanistan85schm)
 The US invaded Iraq because of its [non-compliance with UNSC Resolution 1441](https://archive.org/details/wariniraqlegalan86pedr)
 
