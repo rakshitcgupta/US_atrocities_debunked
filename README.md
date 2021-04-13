@@ -21,8 +21,6 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 - [Alleged Internal Repression](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#alleged-internal-repression)
   - [Native Americans](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#native-amerians)
   - [African-American Community](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#african-american-community)
-  - [Women](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#women)
-  - [Prisoners](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#prisoners)
   - [LGBTQI](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#lgbtqi)
 
 <!-- tocstop -->
@@ -330,10 +328,6 @@ During the interrogations for war crimes prosecutions, the members gave up infor
 ### Native Amerians
 
 ### African-American Community
-
-### Women
-
-### Prisoners
 
 ### LGBTQI
 
