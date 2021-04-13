@@ -225,6 +225,8 @@ The facts are in fundamental controversy. I find the Court's statement of the fa
  
   - In May and June 1975, elements within the CIA recommended establishing a paid relationship with Contreras to obtain intelligence based on his unique position and access to Pinochet. This proposal was overruled, citing the US Government policy on clandestine relations with the head of an intelligence service notorious for human rights abuses. However, given the miscommunisations in the timing of this exchange, a one-time payment was given to Contreras.
 A review of CIA's files has uncovered no evidence that CIA officers and employees were engaged in human rights abuses or in covering up any human rights abuses in Chile."
+
+The US Government also had no involvement in Operation Condor. The US asked Contreras to confirm its existance. He did.
  
 ### Africa
 
