@@ -1,5 +1,5 @@
 # Debunking the List of Alleged atrocities committed by the US authorities
-Correcting the record on US interventions, covert or overt, human rights matters, etc. This project relies on the established documentary record over anon allegations and sensational headlines. We must not embrace anti-intellectualism for it leads to a world of Idiocracy.
+Correcting the record on US interventions—covert or overt—human rights issues, and more. This project relies on the established documentary record over allegations and sensational headlines. We must not embrace anti-intellectualism for it leads to a world of Idiocracy.
 Leave your fallacies at the door.
 
 _Definition: An extremely wicked or cruel act, typically one involving physical violence or injury._
