@@ -18,10 +18,7 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
   - [Africa](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#africa)
   - [Europe](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#europe)
   - [Asia](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#asia)
-- [Alleged Internal Repression](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#alleged-internal-repression)
-  - [Native Americans](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#native-amerians)
-  - [African-American Community](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#african-american-community)
-  - [LGBTQI](https://github.com/Factcheck11/US_atrocities_debunked/blob/main/README.md#lgbtqi)
+
 
 <!-- tocstop -->
 
@@ -347,13 +344,7 @@ During the interrogations for war crimes prosecutions, the members gave up infor
  
  
  
-## Alleged Internal Repression
 
-### Native Amerians
-
-### African-American Community
-
-### LGBTQI
 
 
 
