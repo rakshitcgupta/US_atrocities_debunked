@@ -264,6 +264,13 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
 
 ### Europe
 
+- In 1999, the United States & NATO engaged in major [military operation](https://ia800305.us.archive.org/9/items/ReporttoCongressKosovoOperationAlliedForceAfterActionReport/Report%20to%20Congress-Kosovo%20Operation%20Allied%20Force%20After-Action%20Report.pdf) for 78 days—to end the atrocities committed by the Serbian regime in Kosovo. The major goals were:
+  - Ensuring the stability of Eastern Europe. Serb aggression in Kosovo directly threatened peace throughout the Balkans and thereby the stability of all of southern Europe. There was no natural boundary to this violence, which had already moved through Slovenia and Croatia to Bosnia.
+  - Thwarting ethnic cleasning. The Belgrade regime's cruel repressio in Kosovo, driving thousands from their homes, created a humanitarian crisis of staggering proportions. Milosevic's campaign, which he dubbed "Operation Horseshoe", would have led to even more homeless, starvation, and loss of life had his ruthlessness gone unchecked.
+  - Ensuring NATO's credability. The Federal Republic of Yugoslavia and the Republic of Serbia signed agreements in October 1998 that were to be verified by the Organization for Security and Cooperation in Europe and monitored by NATO. in the period leading up to March 1999, Serbian forces increasingly and flagrantly violated these agreements. Had NATO not responded to Milosevic's defiance and his campaign of ethnic cleansing, its credability would have have been called into question.
+   The US/NATO campaign, Operation Allied Force—was in [full compliance with international law](https://archive.org/details/legalethicalless78wall/mode/2up).
+   Indeed, the International Tribunal has ruled all aspects of the campaign were [lawful](https://www.icty.org/en/press/final-report-prosecutor-committee-established-review-nato-bombing-campaign-against-federal#IVB4). 
+
 ### Asia
 
 - The 1970s-80s position on Khmer Rouge is compliated, spanning several years. For this reason, I'll quote at length from a deep-dive [study](https://www.ushmm.org/m/pdfs/Todd_Buchwald_Report_031819.pdf) on how the US addresses genocides over several decades, and why it takes certain actions over others. At no point did the US acually support, covertly or otherwise, Khmer Rouge.
