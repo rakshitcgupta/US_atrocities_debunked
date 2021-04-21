@@ -282,7 +282,9 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
 
 - It has been alleged that the CIA, from 1948 onwards, had an operation called, "mockingbird" as an operation to manipulate media domestically and abroad. This is a hoax. As confirmed in the CIA's '[Family Jewels](https://web.archive.org/web/20201101104822/https://www.cia.gov/open/Family%20Jewels.pdf)', all Mockingbird was, was a wiretap on two journalists for a few months as they were suspected of making public some classified information. "During the period from 12 March 1963 to 15 June 1963, this office installed telephone taps on two Washington-based newsmen who were suspected of disclosing classified information..." This activity was also [lawful](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1108&context=ilj) at the time, ad would be today.
 
+- It was alleged that the CIA's predeccesor, OSS—was involved in aiding Nazi war criminals to further US Scientific inqury and Intelligence operations. This is a [distortion](https://web.archive.org/web/20201018014445/https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol40no5/pdf/v40i5a12p.pdf) of truth. It has been confirmed by the CIA, DOJ and DoD that there was no operation to rescue criminals from prosecution. Indeed the opposite is true, these bodies worked hard to bring justice to many of these criminals. The CIA, [more than any](https://ia801301.us.archive.org/17/items/EagleAndSwastika/Eagle%20and%20Swastika.pdf), aided in bringing such justice in aiding the DOJ's Office of Special Investigations.
 
+- In the Feburary 1945, the United States Air Forced [lawfully bombed military targets](https://media.defense.gov/2011/Feb/08/2001329907/-1/-1/0/Bombings%20of%20Dresden.pdf) in Dresdon.
 
 ### Asia
 
