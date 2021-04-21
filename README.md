@@ -159,6 +159,18 @@ Lets look at 4 such records, that cover, in total, almost decades—from 9/11 to
  These two are another good overview, though more basic to an extent, of the evolution from TSP to 702 and 215 authorities, etc.
 also specifically debunks the notion of "key words"
 
+- It has been alleged by several media outlets and NGOs that the CIA had several of the following individuals in CIA custody:
+  - Khalid Al-Zawahiri
+  - Osama Bin Yousaf
+  - Qari Saifullah Akhtar
+  - Walid bin Azmi
+  - Iban Al Yaquti al Sheikh al-Sufiyan
+  - Amir Hussein Abdullah al-Misri
+  - Safwan al-Hasham
+  - Jawad al Bashar
+  - Saif Al-Islam Al-Masri
+ A [review](https://www.documentcloud.org/documents/20392756-savage-nyt-foia-redacted-durham-report-to-holder-on-cia-detainees-not-in-cia-custody) of FBI, CIA and DoD documents confirms neither of these individuals were in CIA custody.
+
 - In 2003, the US legally invaded Iraq pursaunt to UNSC Resolution 1441. This was preceeded by years of Iraqi non-complinace with prior resolutions + a ceasefire agreement. The popular myth is that the US and UK Governments lied to justify invasion. However, a review of the declassified record shows this claim to be a haox:
  [Response to the independent report of the UK's Intelligence and Security Committee](https://www.gov.uk/government/publications/government-response-to-the-intelligence-and-security-committee-report-on-iraqi-weapons-of-mass-destruction) concerning Iraq WMDs and in examining  whether  the  available intelligence,  which  informed  the  decision  to  invade  Iraq,  was  adequate  and  properly assessed and whether it was accurately reflected in Government publications. 
 The Committee found the following key conclusions:
