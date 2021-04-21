@@ -297,6 +297,8 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
 
 - It was alleged that the CIA's predeccesor, OSS—was involved in aiding Nazi war criminals to further US Scientific inqury and Intelligence operations. This is a [distortion](https://web.archive.org/web/20201018014445/https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol40no5/pdf/v40i5a12p.pdf) of truth. It has been confirmed by the CIA, DOJ and DoD that there was no operation to rescue criminals from prosecution. Indeed the opposite is true, these bodies worked hard to bring justice to many of these criminals. The CIA, [more than any](https://ia801301.us.archive.org/17/items/EagleAndSwastika/Eagle%20and%20Swastika.pdf), aided in bringing such justice in aiding the DOJ's Office of Special Investigations.
 
+- The Rheinwiesenlager (Rhine meadow camps) were a group of 19 US prison camps built in the Allied-occupied part of Germany to hold captured German soldiers at the close of the Second World War. The US and allied forces did their best to [maintain compliance with international law, and did](https://collections.nlm.nih.gov/bookviewer?PID=nlm:nlmuid-1278003RX7-mvpart#page/366/mode/2up), with regards to detention operations of captive Germans. However, due to unforeseen issues such as the overwhelming numbers of German troop surrender, far more than planned—the Allied forces struggled to maintain sanitation conditions and other needs. They did improve overtime, but struggled. No Geneva violations occured.
+
 - In the Feburary 1945, the United States Air Forced [lawfully bombed military targets](https://media.defense.gov/2011/Feb/08/2001329907/-1/-1/0/Bombings%20of%20Dresden.pdf) in Dresdon.
 
 ### Asia
