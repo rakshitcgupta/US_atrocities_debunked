@@ -271,6 +271,8 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
    
   The US/NATO campaign, Operation Allied Force—was in [full compliance with international law](https://archive.org/details/legalethicalless78wall/mode/2up).
    Indeed, the International Tribunal has ruled all aspects of the campaign were [lawful](https://www.icty.org/en/press/final-report-prosecutor-committee-established-review-nato-bombing-campaign-against-federal#IVB4). 
+   
+- It has been alleged that Abu Omar subject to a CIA rendition in Italy in 2003. There has been 0 evidence to confirm the allegation. However, even if it were true, the rendition is perfectly legal under international law. Indeed, the Italian judicial system [violated international law](https://harvardnsj.org/2010/11/all-human-rights-are-equal-but-some-are-more-equal-than-others-the-extraordinary-rendition-of-a-terror-suspect-in-italy-the-nato-sofa-and-human-rights/), in respect to human rights.
 
 ### Asia
 
