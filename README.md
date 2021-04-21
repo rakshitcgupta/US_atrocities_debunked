@@ -31,6 +31,7 @@ Putting aside misinformed, inital moral outrage in order to learn the facts, nua
   when given even basic scrutiny.
 - Due to the passage of time, some things in the list are hard to investigate.
 - The list isn't in any speciic order. _Generally_ it's in a most to least recent.
+- Under international law, incidental (collateral) deaths or injuries of civilians, even in large number, does not indicate nor imply violation of the laws of war.
 
 ## Imperialism
 - It has been alleged that the US maintains an "imperialistic network" of over 800 military bases in 70 countries.
