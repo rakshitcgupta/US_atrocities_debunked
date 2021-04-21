@@ -264,6 +264,8 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
 
 ### Europe
 
+- It has been alleged that Abu Omar subject to a CIA rendition in Italy in 2003. There has been 0 evidence to confirm the allegation. However, even if it were true, the rendition is perfectly legal under international law. Indeed, the Italian judicial system [violated international law](https://harvardnsj.org/2010/11/all-human-rights-are-equal-but-some-are-more-equal-than-others-the-extraordinary-rendition-of-a-terror-suspect-in-italy-the-nato-sofa-and-human-rights/), in respect to human rights.
+
 - In 1999, the United States & NATO engaged in major [military operation](https://ia800305.us.archive.org/9/items/ReporttoCongressKosovoOperationAlliedForceAfterActionReport/Report%20to%20Congress-Kosovo%20Operation%20Allied%20Force%20After-Action%20Report.pdf) for 78 days—to end the atrocities committed by the Serbian regime in Kosovo. The major goals were:
   - Ensuring the stability of Eastern Europe. Serb aggression in Kosovo directly threatened peace throughout the Balkans and thereby the stability of all of southern Europe. There was no natural boundary to this violence, which had already moved through Slovenia and Croatia to Bosnia.
   - Thwarting ethnic cleasning. The Belgrade regime's cruel repressio in Kosovo, driving thousands from their homes, created a humanitarian crisis of staggering proportions. Milosevic's campaign, which he dubbed "Operation Horseshoe", would have led to even more homeless, starvation, and loss of life had his ruthlessness gone unchecked.
@@ -272,7 +274,15 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
   The US/NATO campaign, Operation Allied Force—was in [full compliance with international law](https://archive.org/details/legalethicalless78wall/mode/2up).
    Indeed, the International Tribunal has ruled all aspects of the campaign were [lawful](https://www.icty.org/en/press/final-report-prosecutor-committee-established-review-nato-bombing-campaign-against-federal#IVB4). 
    
-- It has been alleged that Abu Omar subject to a CIA rendition in Italy in 2003. There has been 0 evidence to confirm the allegation. However, even if it were true, the rendition is perfectly legal under international law. Indeed, the Italian judicial system [violated international law](https://harvardnsj.org/2010/11/all-human-rights-are-equal-but-some-are-more-equal-than-others-the-extraordinary-rendition-of-a-terror-suspect-in-italy-the-nato-sofa-and-human-rights/), in respect to human rights.
+- In 1995, NATO launched [Operation Deliberate Force](https://www.airforcemag.com/article/1097deliberate/). The air campaign resulted in few civilian casualties, and ended the civil conflict.
+
+- It has been alleged that the CIA supported right-wing terror groups in Italy from the 50s to the 90s, under "Operation Gladio". This has been a long-debunked, [Soviet propaganda piece](https://www.scribd.com/document/114855262/Misinformation-About-Gladio-Stay-Behind-Networks-Resurfaces).
+
+- The list claims the CIA installed Georgious Papadopoulos in a Military coup. The list cited a wiki entry that contradicts the allegation, and confirms it was just that: An allegation. The wiki entry states, "during William Colby's [confirmation hearing](https://babel.hathitrust.org/cgi/pt?id=mdp.39015074749253&view=2up&seq=7) to be Director of Central Intelligence, Colby was asked by Stuart Symington, chairman of the United States Senate Committee on Armed Services, if there was any justification for the assertions. Colby replied that he had the allegations researched and found that the CIA had not engineered the coup, Papadopoulos was not an agent of the CIA, and that Papadopoulos was never paid by the CIA."
+
+- It has been alleged that the CIA, from 1948 onwards, had an operation called, "mockingbird" as an operation to manipulate media domestically and abroad. This is a hoax. As confirmed in the CIA's '[Family Jeweles](https://web.archive.org/web/20201101104822/https://www.cia.gov/open/Family%20Jewels.pdf)', all Mockingbird was, was a wiretap on two journalists for a few months as they were suspected of making public some classified information. "During the period from 12 March 1963 to 15 June 1963, this office installed telephone taps on two Washington-based newsmen who were suspected of disclosing classified information..." This activity was also [lawful](https://www.repository.law.indiana.edu/cgi/viewcontent.cgi?article=1108&context=ilj) at the time, ad would be today.
+
+
 
 ### Asia
 
