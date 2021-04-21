@@ -302,6 +302,8 @@ Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-ve
 
 - In the Feburary 1945, the United States Air Forced [lawfully bombed military targets](https://media.defense.gov/2011/Feb/08/2001329907/-1/-1/0/Bombings%20of%20Dresden.pdf) in Dresdon.
 
+- On Janurary 22, 1944, the United States set up the [War Refugee Board](https://archives.jdc.org/topic-guides/jdc-and-the-u-s-war-refugee-board-1944-45/) to coordinate a systematic, formal response to aid Jews from the Holocaust.
+
 ### Asia
 
 - The 1970s-80s position on Khmer Rouge is compliated, spanning several years. For this reason, I'll quote at length from a deep-dive [study](https://www.ushmm.org/m/pdfs/Todd_Buchwald_Report_031819.pdf) on how the US addresses genocides over several decades, and why it takes certain actions over others. At no point did the US acually support, covertly or otherwise, Khmer Rouge.
