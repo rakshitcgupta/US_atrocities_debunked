@@ -32,7 +32,7 @@ Putting aside misinformed, inital moral outrage in order to learn the facts, nua
 - Due to the passage of time, some things in the list are hard to investigate.
 - The list isn't in any speciic order. _Generally_ it's in a most to least recent.
 - Under international law, incidental (collateral) deaths or injuries of civilians, even in large number, does not indicate nor imply violation of the laws of war.
-- When examining primary sources records, one must note that they not all equal. Raw intel cables from Station or an embassy, for example, should no be valued in the same light as finalised intelligence products. For Congressional investigations, keep in mind any disagreement between majority & minority, same for Agency/Department Inspectors General—management comments, Accountability Review Boards, should also be examined if they disagree. Not all Governments are monolithic; not all documents are treated the same.
+- When examining primary sources records, one must note that they're not all equal. Raw intel cables from Station or an embassy, for example, should no be valued in the same light as finalised intelligence products. For Congressional investigations, keep in mind any disagreement between majority & minority, same for Agency/Department Inspectors General—management comments, Accountability Review Boards, should also be examined if they disagree. Not all Governments are monolithic; not all documents are treated the same.
 
 ## Imperialism
 - It has been alleged that the US maintains an "imperialistic network" of over 800 military bases in 70 countries.
