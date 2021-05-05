@@ -23,7 +23,7 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 <!-- tocstop -->
 
 Notes:
-- A clear documentary record advances a public reckoning that enables professional values and judgment to check disinformation and to counter authoritarian and populist contempt for facts.
+- A clear documentary record advances a public reckoning that enables professional values and judgment to check disinformation and to counter authoritarian, anarchist, and populist movement's 'contempt for facts'.
 - Try to convey a sense of understanding of complex matters and history. 
 Putting aside misinformed, inital moral outrage in order to learn the facts, nuance and details.
 - This is a living document, it will be updated as new facts are uncovered and information pours in. 
