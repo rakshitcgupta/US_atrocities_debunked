@@ -50,7 +50,7 @@ The DoD has presence on only 45 countries, for a total of only 514 sits as of [2
   - >Direct Action should be undertaken wherever practible and constistentwith US interests and applicable domestic and international law.
   - >The United States will continue to take extraordinary measures to ensure with near certainty that noncombatants will not be injured or killed in the course of operations, using all reasonably avillable information and means of verification.
     
- Among many more restrictions and layered oversight for target approval, and general preference for capture rather than kill missions.
+   Among many more restrictions and layered oversight for target approval, and general preference for capture rather than kill missions.
 
 - On February 25th, 2021, in his first month in Office, [President Biden approved](https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/27/a-letter-to-the-speaker-of-the-house-and-president-pro-tempore-of-the-senate-consistent-with-the-war-powers-resolution/) airstrikes on lawful infrastructure targets in eastern Syria used by Iran-supported non-state militia groups. These groups were involved in recent attacks against civilians, US and coalition personnel. 0 civilians killed or wounded.
 
