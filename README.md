@@ -140,6 +140,7 @@ NCIS investigated this matter and found some evidence that two individuals talke
   - >There is no evidence to suggest that Rahman's death was deliberate.
   - >There is no evidence to suggest Rahman was beaten, tortured, poisoned, strangled, or smothered.
   - >Gul Rahman's actions contributed to his own death. By throwing his last meal he was unable to provide his body with a source of fuel to keep warm. Additionally, his violent behavior resulted in his restraint which prevented him from generationg body heat by moving around and brought him in direct contact with the concrete floor leadng to the loss of bodyheat through conduction.
+   
    This was also subject to an OIG investigation, and forwarded to DOJ for prosecutoral determination. DOJ notified it would not charge, but would include it in an ongoing special counsel review by the Attorney's Office for the Eastern District of Virginia.
 
 - After 9/11, the US passed into law the Patriot Act. [A law that streamlined many already-existing laws at a federal level](https://www.justice.gov/archive/ll/subs/add_myths.htm). It, along with the USA Patriot Improvement Act, [strengthened privacy and civil liberties protections](https://www.justice.gov/archive/911/legal.html)
