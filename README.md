@@ -134,12 +134,13 @@ NCIS investigated this matter and found some evidence that two individuals talke
 
 - On December 10, 2002, a number of US Military personnel (20) were involved in [detainsee abuse](https://www.thetorturedatabase.org/files/foia_subsite/pdfs/DODDOACID011770.pdf) that resulted in the death of two men, one of whom was Dilawar. CIA had no involvement in this matter. 
 
-- On September 23, 2009, an [independent internal](https://www.thetorturedatabase.org/files/foia_subsite/dod_ig_report_mind-altering_drugs.pdf) investigation found that allegations that the DoD, between September 2001 to April 2008 was using "mind-altering drugs" on detainees to be unsubstantiated. Some detainees were medicated to treat diagnosed mental conditions.
+- On September 23, 2009, an [independent](https://www.thetorturedatabase.org/files/foia_subsite/dod_ig_report_mind-altering_drugs.pdf) investigation found that allegations that the DoD, between September 2001 to April 2008 was using "mind-altering drugs" on detainees to be unsubstantiated. Some detainees were medicated to treat diagnosed mental conditions.
 
-- On November 2002, Gul Rahman died in CIA detention. An independent investigation found that he was not subject to torture or mistreated—that his own actions lead to his death. It reached the following conclusions:
+- On November 2002, Gul Rahman died in CIA detention. An independent [investigation](https://www.cia.gov/readingroom/docs/0006555318.pdf) found that he was not subject to torture or mistreated—that his own actions lead to his death. It reached the following conclusions:
   - >There is no evidence to suggest that Rahman's death was deliberate.
   - >There is no evidence to suggest Rahman was beaten, tortured, poisoned, strangled, or smothered.
   - >Gul Rahman's actions contributed to his own death. By throwing his last meal he was unable to provide his body with a source of fuel to keep warm. Additionally, his violent behavior resulted in his restraint which prevented him from generationg body heat by moving around and brought him in direct contact with the concrete floor leadng to the loss of bodyheat through conduction.
+   This was also subject to an OIG investigation, and forwarded to DOJ for prosecutoral determination. DOJ notified it would not charge, but would include it in an ongoing special counsel review by the Attorney's Office for the Eastern District of Virginia.
 
 - After 9/11, the US passed into law the Patriot Act. [A law that streamlined many already-existing laws at a federal level](https://www.justice.gov/archive/ll/subs/add_myths.htm). It, along with the USA Patriot Improvement Act, [strengthened privacy and civil liberties protections](https://www.justice.gov/archive/911/legal.html)
 A detailed overview of one of the PA's provisions can be found [here](https://www.documentcloud.org/documents/750227-patriot-act-section-215-white-paper.html) and a deep-dive [here](https://jnslp.com/wp-content/uploads/2014/05/On-the-Bulk-Collection-of-Tangible-Things.pdf)
