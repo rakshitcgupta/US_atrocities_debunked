@@ -387,12 +387,12 @@ In these circumstances, especially given the fact that many of the U.S. soldiers
 - A series scholarly publications from the US Air Force History Office cover operations in Cambodia, Laos, North and South Vietnam, etc.
 The following are a select few:
   -_[The United States Air Force in Southeast Asia, 1961-1973: An illustrated account_](https://web.archive.org/web/20210427064250/https://apps.dtic.mil/dtic/tr/fulltext/u2/a160932.pdf)
-  -_[Air War over South Vietnam 1968–1975_](https://media.defense.gov/2010/Sep/24/2001330077/-1/-1/0/Air%20War%20Over%20South%20Vietnam%20opt.pdf)
-  -_[The War against Trucks, Aerial Interdiction in Southern Laos1968-1972_](https://media.defense.gov/2010/Oct/06/2001329752/-1/-1/0/AFD-101006-027.pdf)
-  -_[Interdiction in Southern Laos 1060-1968_](https://media.defense.gov/2010/Sep/27/2001329814/-1/-1/0/AFD-100927-078.pdf)
-  -_[USAF Plans and Operations: Air Campaign Against North Vietnam, 1966_](https://media.defense.gov/2011/Mar/18/2001330141/-1/-1/0/AFD-110318-005.pdf)
-  -_[The Air Force in Southeast Asia: Role of Air Power Grows, 1970_](https://media.defense.gov/2011/Mar/18/2001330144/-1/-1/1/Air%20Power%20Grows%201970.pdf)
-  -_[The United States Air Force in Southeast Asia, the war in Northern Laos: 1954-1973_](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/war_in_northern_laos.pdf)
+  -[Air War over South Vietnam 1968–1975](https://media.defense.gov/2010/Sep/24/2001330077/-1/-1/0/Air%20War%20Over%20South%20Vietnam%20opt.pdf)
+  -[The War against Trucks, Aerial Interdiction in Southern Laos1968-1972](https://media.defense.gov/2010/Oct/06/2001329752/-1/-1/0/AFD-101006-027.pdf)
+  -[Interdiction in Southern Laos 1060-1968](https://media.defense.gov/2010/Sep/27/2001329814/-1/-1/0/AFD-100927-078.pdf)
+  -[USAF Plans and Operations: Air Campaign Against North Vietnam, 1966](https://media.defense.gov/2011/Mar/18/2001330141/-1/-1/0/AFD-110318-005.pdf)
+  -[The Air Force in Southeast Asia: Role of Air Power Grows, 1970](https://media.defense.gov/2011/Mar/18/2001330144/-1/-1/1/Air%20Power%20Grows%201970.pdf)
+  -[The United States Air Force in Southeast Asia, the war in Northern Laos: 1954-1973](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB248/war_in_northern_laos.pdf)
 
 
 
