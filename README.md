@@ -42,7 +42,7 @@ This is misleading and in factual error.
   - Site: A specific geographic location that has individual land parcels or facilities assigned to it.  Physical (geographic) location that is, or was owned by, leased to, or otherwise under the jurisdiction of a DoD Component on behalf of the United States.  A site may be contiguous to another site, but cannot geographically overlap or be within another site. A site may exist in one of three forms:  land only– where no facilities are present; facility or facilities only– where there the underlying land is neither owned nor controlled by the government, and land with facilities –where both are present.
   - Installation:  A military base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdictionof the Department of Defense, including leased space, that is controlled by, or primarily supports DoD’s activities.  An installation may consist of one or more sites.  
 
-The DoD has presence on only 45 countries, for a total of only 514 sits as of [2018.](https://www.acq.osd.mil/eie/Downloads/BSI/Base%20Structure%20Report%20FY18.pdf) This is at the full [consent of host countries.](https://www.state.gov/wp-content/uploads/2020/08/TIF-2020-Full-website-view.pdf)
+ The DoD has presence on only 45 countries, for a total of only 514 sits as of [2018.](https://www.acq.osd.mil/eie/Downloads/BSI/Base%20Structure%20Report%20FY18.pdf) This is at the full [consent of host countries.](https://www.state.gov/wp-content/uploads/2020/08/TIF-2020-Full-website-view.pdf)
 
 ### Middle East
 
