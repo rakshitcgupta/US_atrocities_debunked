@@ -32,9 +32,10 @@ Putting aside misinformed, inital moral outrage in order to learn the facts, nua
   Rather, to critique, one must not rely on misinformation or arguments that cannot hold their own
   when given even basic scrutiny.
 - Due to the passage of time, some things in the list are hard to investigate.
-- The list isn't in any speciic order. _Generally_ it's in a most to least recent.
+- The list isn't in any specific order. _Generally_ it's in a most to least recent.
 - Under international law, incidental (collateral) deaths or injuries of civilians, even in large number, does not indicate nor imply violation of the laws of war.
 - When examining primary source records, one must note that they're not all equal. Raw intel cables from Station or an embassy, for example, should not be valued in the same light as finalised intelligence products. For Congressional investigations, keep in mind any disagreement between majority & minority, same for Agency/Department Inspectors General—management comments, Accountability Review Boards, should also be examined if they disagree. Not all Governments are monolithic; not all documents are treated the same.
+- [Per the ICC](https://www.icc-cpi.int/resource-library/Documents/UICCEng.pdf), "The International Criminal Court is _not a substitute_ for national courts. According to the Rome Statute, it is the duty of every State to exercise its criminal jurisdiction over those responsible for international crimes. The International Criminal Court _can only intervene where a State is unable or unwilling genuinely to carry out the investigation and prosecute the perpetrators"
 
 ## Imperialism
 - It has been alleged that the US maintains an "imperialistic network" of over 800 military bases in 70 countries.
