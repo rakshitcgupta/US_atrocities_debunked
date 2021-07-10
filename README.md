@@ -374,6 +374,11 @@ Current strategies and interventions employed by DHAPP include: Index case HIV t
 
 - It was alleged that the CIA's predecessor, OSS—was involved in aiding Nazi war criminals to further US Scientific inquiry and Intelligence operations. This is a [distortion](https://web.archive.org/web/20201018014445/https://www.cia.gov/library/center-for-the-study-of-intelligence/kent-csi/vol40no5/pdf/v40i5a12p.pdf) of truth. It has been confirmed by the CIA, DOJ and DoD that there was no operation to rescue criminals from prosecution. Indeed the opposite is true, these bodies worked hard to bring justice to many of these criminals. The CIA, [more than any](https://ia801301.us.archive.org/17/items/EagleAndSwastika/Eagle%20and%20Swastika.pdf), aided in bringing such justice in aiding the DOJ's Office of Special Investigations.
 
+- During and after WW2, US and allied forces investigated allegations against their own forces. Rape, murder, detainee abuse, etc. Against civiians and German soldier. These efforts resulted in thousands of US and allied service members being charged and convicted, some of whom sentenced to life in prison for violating international law. See:
+  [E.T.O. Board of Review](https://www.loc.gov/rr/frd/Military_Law/pdf/ETO-BOR_Vol-31.pdf)
+  The General Board, E.T.O. War Crimes and Punishment of War Criminals [report](https://web.archive.org/web/20161223233956/http://usacac.army.mil/cac2/cgsc/carl/eto/eto-086.pdf)
+  [NARA](https://historyhub.history.gov/thread/2367) records containing many investigations.
+  
 - At the end of World War II, the US undertook, with allied forces, an unprecedented effort to remove the stain of Nazism from Germany, and rebuild the nation.
  This collosal effort has been well document, in particular on how the US provided care to local populations that were liberated, as well as after hostilities ended. Of note was their US' efforts to combat hunger, disease outbreaks, etc. As detailed in this authoritative, independent [Official History](https://collections.nlm.nih.gov/bookviewer?PID=nlm:nlmuid-9009947-bk#page/570/mode/2up) from the Medical Department, US Army.
 
