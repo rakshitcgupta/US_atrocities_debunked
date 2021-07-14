@@ -8,6 +8,8 @@ _[Legal Definition](https://web.archive.org/web/20200825130159/https://www.un.or
 
 > "Around the world, the United States has promoted freedom: We have worked to expand the protection of human rights, end gender-based violence, and defend the freedoms of expression, peaceful assembly, and the press. In promoting these liberties and pushing back against tyranny, corruption, and oppression, we have recognized that universal human rights and fundamental freedoms do not stop at our borders. They are the birthright of people everywhere." - President Barrack Obama, Presidential Proclamation - Human Rights Day and Human Rights Week, 2016
 
+> On July 12, 2021, the Biden Administration issued its [report](https://www.state.gov/2021-report-to-congress-pursuant-to-section-5-of-the-elie-wiesel-genocide-and-atrocities-prevention-act-of-2018) to Congress Pursuant to Section 5 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 (P.L. 115-441). "The Biden Administration is committed to promoting democratic values that underpin a stable international system critical to freedom, prosperity, and peace.  This Administration will defend and protect human rights around the world, and recognizes the prevention of atrocities is a core national security interest and a core moral responsibility. This report highlights countries of concern and whole-of-government efforts undertaken by the Atrocity Early Warning Task Force1 to prevent and respond to atrocities from July 2020 to May 2021."
+
 ## Contents
 
 <!-- toc -->
