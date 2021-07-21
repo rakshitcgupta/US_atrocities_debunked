@@ -286,6 +286,10 @@ It is [confirmed](https://web.archive.org/web/20170124020754/https://www.cia.gov
 
 ### Western Hemisphere
 
+- In 2004, at the [request](https://2001-2009.state.gov/r/pa/prs/ps/2004/29990.htm) of President Jean-Bertrand Aristide of Haiti, the United States facilitated his safe departure, after resigning.
+
+- Haiti, September 1994, US Military forces were ordered to execute [Operation Uphold Democracy](https://www.armyupress.army.mil/Portals/7/combat-studies-institute/csi-books/kretchikw.pdf). The objective was to return to office the democratically elected President, and to facilitate a stable and secure environment in which democratic institutions could take hold. This was successful. President Aristide reassumed his duties, the Junta that ousted him was forced to leave the country, and national elections were successfully held in 1996. The democratic process there was given the opportunity to succeed due, in large part, to Operation Uphold Democracy. 
+
 - In June 1996, the President's Intelligence Oversight Board issued its _[Report on the Guatemala review](https://web.archive.org/web/20110926214324/http://www.ciponline.org/iob.htm)_ which examined CIA's interaction with security services on human rights issues concluded:
  "The human rights records of the Guatemalan security services—the D-2 and the Department of Presidental Security (known informally as "Archivos." after one of its predeccesor organizations)—were generally nown to have been reprehensible by all who were familiar with Guatemala. US policy-makers knew of both CIA's liason with them and the service's unsavory reputations. The CIA endeavored to improve this behavior of the Guatemalan services through frequent and close contact and by stressing the importance of human rights—insisiting, for example, that Guatemalan military intelligence training include human rights instruction. The station officers assigned to Guatemala and the CIA headquaters officials whom we interviewed believe that the CIA's contact with the Guatemalan services helped improve attitudes towards human rights.
  
