@@ -1,6 +1,6 @@
 # Debunking the List of Alleged atrocities committed by the US authorities
 Correcting the record on US interventions—covert or overt—human rights issues, and more. This project relies on the established documentary record over allegations and sensational headlines. We must not embrace anti-intellectualism for it leads to a world of Idiocracy.
-Leave your fallacies at the door.
+Leave your fallacies at the door. This is also not to defend every single action the US has taken, or suggest the US is perfect. Rather, to critique, one must not rely on misinformation or arguments that cannot hold their own when given even basic scrutiny. Individuals, such as service members, have done crimes—however this is few and far between—rare. Not as a matter of policy, doctrine, SOP, strategy, etc. The US investigates and holds those responsible when evidence warrants. 
 
 _Definition: An extremely wicked or cruel act, typically one involving physical violence or injury._
 
@@ -30,9 +30,6 @@ Notes:
 - Try to convey a sense of understanding of complex matters and history. 
 Putting aside misinformed, inital moral outrage in order to learn the facts, nuance and details.
 - This is a living document, it will be updated as new facts are uncovered and information pours in. 
-- This is also not to defend every single action the US has taken, or suggest the US is perfect. 
-  Rather, to critique, one must not rely on misinformation or arguments that cannot hold their own
-  when given even basic scrutiny.
 - Due to the passage of time, some things in the list are hard to investigate.
 - The list isn't in any specific order. _Generally_ it's in a most to least recent.
 - Under international law, incidental (collateral) deaths or injuries of civilians, even in large number, does not indicate nor imply violation of the laws of war.
