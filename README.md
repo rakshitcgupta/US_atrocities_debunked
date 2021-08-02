@@ -1,6 +1,6 @@
 # Debunking the List of Alleged atrocities committed by the US authorities
 Correcting the record on US interventions—covert or overt—human rights issues, and more. This project relies on the established documentary record over allegations and sensational headlines. We must not embrace anti-intellectualism for it leads to a world of Idiocracy.
-Leave your fallacies at the door. This is also not to defend every single action the US has taken, or suggest the US is perfect. Rather, to critique, one must not rely on misinformation or arguments that cannot hold their own when given even basic scrutiny. Individuals, such as service members, have done crimes—however this is few and far between—rare. Not as a matter of policy, doctrine, SOP, strategy, etc. The US investigates and holds those responsible when evidence warrants. 
+Leave your fallacies at the door. This is also not to defend every single action the US has taken, or suggest the US is perfect. Rather, to critique, one must not rely on misinformation or arguments that cannot hold their own when given even basic scrutiny. Individuals, such as service members, have done crimes—however this is few and far between—rare. Not as a matter of policy, doctrine, SOP, strategy, etc. The US investigates and holds those responsible when evidence warrants, as evidenced below, in this list.
 
 _Definition: An extremely wicked or cruel act, typically one involving physical violence or injury._
 
