@@ -370,7 +370,7 @@ A review of CIA's files has uncovered no evidence that CIA officers and employee
 
 
 - In March 2019, Amnesty International issued a report about US Airstrikes in Somalia, alleging US ignores CIVCAS claims, commits war crimes, etc. 
-Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-very-skeptical-of-amnesty-internationals-report/) have gone over the inferior methodology employed by NGOs like Amnesty on such matters. However, an [independent review](https://web.archive.org/web/20190601040251/https://www.africom.mil/media-room/pressrelease/31697/u-s-africa-command-commander-directed-review-reveals-civilian-casualties) conducted confirms Amnesty got it wrong—again. This isn't the first time. The NGO, (and others have been shown to not even get the [month correct](https://archive.org/details/africomcivcas/mode/2up), when alleging a US airstrike.
+Several [experts](https://sites.duke.edu/lawfire/2019/03/31/why-you-should-be-very-skeptical-of-amnesty-internationals-report/) have gone over the inferior methodology employed by NGOs like Amnesty on such matters. However, an [independent review](https://www.africom.mil/pressrelease/31697/u-s-africa-command-commander-directed-review-reveals-civilian-casualties) conducted confirms Amnesty got it wrong—again. This isn't the first time. The NGO, (and others have been shown to not even get the [month correct](https://archive.org/details/africomcivcas/mode/2up), when alleging a US airstrike.
 
 - Since 2007, US Africa Command (AFRICOM), has done a number of assistance programs to African countries, ranging from [humanitarian aid, civil assistance](https://www.africom.mil/what-we-do), etc.
   Some of these are:
