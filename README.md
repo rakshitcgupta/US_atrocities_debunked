@@ -370,6 +370,8 @@ The facts are in fundamental controversy. I find the Court's statement of the fa
 A review of CIA's files has uncovered no evidence that CIA officers and employees were engaged in human rights abuses or in covering up any human rights abuses in Chile."
 
    The US Government also had no involvement in Operation Condor. The US also tried to [prevent & disrupt](https://nsarchive.gwu.edu/sites/default/files/documents/5817664/National-Security-Archive-Doc-03-CIA-memorandum.pdf) the illegal activities and distance itself. The US asked Contreras to confirm its existance. [He did](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB416/docs/780822cia.pdf).
+   
+  - CIA had [no involvement](https://www.fordlibrarymuseum.gov/library/document/0005/7324009.pdf) in dictator, Rafael Trujillo's assassination. Some Latin American countries thought the US had allowed his brutal regime, however, it was just US policy to refrain from actions that would hasten his downfall. The US did enourage moderate democractic groups to resist the regime. The policy of non-intervention, while required by treaty, convinced Latin Americans that the US was supportive. 
  
 ### Africa
 
@@ -392,7 +394,7 @@ Current strategies and interventions employed by DHAPP include: Index case HIV t
 
 - The US Department of Defense offers legal education to any nation who requests, through the [Defense Institute of International Legal Studies (DIILS)](https://www.youtube.com/watch?v=zEpHRVqEgs4). A highly effective program that tailors to the specific host country. Members of the a foreign Military may visit the US, in Resident programs, or, the US may conduct workshops within the Country. These cover a [wide-varity](https://globalnetplatform.org/system/files/diils_2020_catalog_no_contacts.pdf) of legal issues: Human rights law, military justice, equal rights, etc. It has seen [major success](https://youtu.be/zEpHRVqEgs4?t=497), over a decade, DILLS worked with a number of African nations on justice reform, and methods to investigate and prosecute military personnel for sexual violent and gender-based crimes within the military. This sustained effort saw a sharp decline in sexual assault cases, an increase in successful investigations and prosecutions. These offer the ability to increase civilian oversight of the military, to either enhance, or develop their legal framework.
 
-
+- CIA had [no involvement](https://www.fordlibrarymuseum.gov/library/document/0005/7324009.pdf) in Prime Minster Patrice Lumumba's death.
 
 
 ### Europe
