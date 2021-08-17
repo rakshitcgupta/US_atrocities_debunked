@@ -332,6 +332,16 @@ It is [confirmed](https://web.archive.org/web/20170124020754/https://www.cia.gov
    
     The CIA's Independent Inspector General issued a multi-volume series on Guatemala. [Volume 1](https://www.cia.gov/readingroom/docs/DOC_0000690161.pdf) concludes similar.
   
+  The Department of Defense also issued its 1995 [report](https://media.defense.gov/2017/Sep/11/2001806396/-1/-1/1/REPORT%20TO%20THE%20SECRETARY%20OF%20DEFENSE%20ON%20DOD%20ACTIVITIES%20IN%20GUATEMALA%20(U).PDF), 'Guatemala Review - Report to the Secretary of Defense on DoD Activities in Guatemala. which found that US Policy towards Guatemala was:
+  >Promoting a stable democratic government to include ending the Marxist insurgency;
+  >eliminating human rights abuses;
+  >responding to the economic and social needs of the Guatemalan people; and
+  >reducing drugs and drug trafficking.
+
+  Based on the documentation reviewed, all significant DoD programs and activities in Guatemala from 1980 to 1995 were within the stated US Policy objectives:
+  >There were 1,366 deployments to Guatemala during the period. Involving at least 25,021 DoD personnel. US military personnel performed humanitarian and civic action exercises designed to demonstrate the role of the military in stabilizing a democratic government and improving the economic and social welfare of the Guatemalan people.
+  >Since 1990, DoD personnel have supported the Drug Enforcement Administration's effort to interdic narcotics trafficking in Guatemala by transporting law enforcement personnel, detecting suspected trafficking activity, providing intelligence support and assisting in planning counterdrug operations.
+  >The DoD security assistance program during the period totalled 28 million in grant aid and 3.384 million in International Military Euducation and Training. With the exception of one UH-1 helicopter in 1983, no major end items were provided to the Government of Guatemala.
 
 - The list claims the US has backed a right-wing coup in Bolivia. Offering no evidence in this claim via its citation.
 - The CIA had no involvement drug trafficking has alleged by Gary Webb. Several independent investigations could not substantiate the claims and found contradictory information to said allegations, such as when CIA learned of such illegal activities, they tipped off local Law Enforcement to take action.
