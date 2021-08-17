@@ -290,15 +290,15 @@ Saddam lied about the effect of these sanctions, by manipulating census data. A 
   
 - It has been alleged that the CIA aided the Taliban and AQ, or extremist elements of the Mujahideen; funded and trained Bin Ladin, etc. These are all false, but rely on a partial truth. The US did aid the Mujahideen to fight off the illegal Soviet invasion/occupation. 
  [In summary](https://web.archive.org/web/20050310111109/http://usinfo.state.gov/media/Archive/2005/Jan/24-318760.html):
- >U.S. covert aid went to the Afghans, not to the "Afghan Arabs."
+  >U.S. covert aid went to the Afghans, not to the "Afghan Arabs."
 
- >The "Afghan Arabs" were funded by Arab sources, not by the United States.
+  >The "Afghan Arabs" were funded by Arab sources, not by the United States.
 
- >United States never had "[any relationship whatsoever](https://web.archive.org/web/20191101205458/https://www.cia.gov/news-information/cia-the-war-on-terrorism/terrorism-faqs.html)" with Osama bin Laden.
+  >United States never had "[any relationship whatsoever](https://web.archive.org/web/20191101205458/https://www.cia.gov/news-information/cia-the-war-on-terrorism/terrorism-faqs.html)" with Osama bin Laden.
 
- >The Soviet invasion of Afghanistan, Arab backing for the "Afghan Arabs," and bin Laden's own decisions "created" Osama bin Laden and al Qaeda, not the United    States.
+  >The Soviet invasion of Afghanistan, Arab backing for the "Afghan Arabs," and bin Laden's own decisions "created" Osama bin Laden and al Qaeda, not the United    States.
 
-It should also be [noted](https://www.cia.gov/static/9fa9520134e1c2f3068001de69c9964b/Curator-Pocket-History-CIA.pdf) that the [CIA/SF](https://www.archives.gov/files/declassification/iscap/pdf/2012-041-doc01.pdf) units the US sent in after 9/11, met up with these very same moderates they helped in the 80s, to fight AQ and the Taliban.
+  It should also be [noted](https://www.cia.gov/static/9fa9520134e1c2f3068001de69c9964b/Curator-Pocket-History-CIA.pdf) that the [CIA/SF](https://www.archives.gov/files/declassification/iscap/pdf/2012-041-doc01.pdf) units the US sent in after 9/11, met up with these very same moderates they helped in the 80s, to fight AQ and the Taliban.
   
 - In 1980s, US had no involvement in the Turkish coup. According to the list's own wiki citation, the alleged source for the claim clarified in a June 2003 interview, "I did not say to Carter "Our boys did it." It is totally a tale, a myth, It is something Birand fabricated. He knows it, too. I talked to him about it." And, "General Kenan Evren said 'the US did not have pre-knowledge of the coup but we informed them of the coup 2 hours in advance due to our soldiers coinciding with the American community JUSMAT that is in Ankara.'" 
 
