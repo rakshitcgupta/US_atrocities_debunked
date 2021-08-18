@@ -409,7 +409,8 @@ A review of CIA's files has uncovered no evidence that CIA officers and employee
   - Blow up ammunition inside the base; start fired.
   - Sink ship near harbor entrance. Conduct funerals for mock-victims.
     It goes on to say, "we could blow up a drone (unmanned) vessel anywhere in the Cuban waters."
-   The media has incorrect claimed that the plans were intended to cause harm to civilians.
+   
+    The media has incorrect claimed that the plans were intended to cause harm to civilians.
 
   On November 4, 1964, the new Vice President, General René Barrientos Ortuño (MNR), led a successful military coup d’etat, forcing Paz into exile, (No US involvement in coup). In February 1965 the 303 Committee authorized a financial subsidy to the MNR under Barrientos (who was aware of U.S. financial support to the MNR) to help establish an organizational base for the presidential election scheduled for September. In May 1965 Barrientos responded to growing labor unrest by arresting and deporting Lechin and postponing the election. The 303 Committee, which considered a recommendation to support Barrientos as the best available candidate, agreed in July 1965 and March 1966 to authorize additional funds for MNR propaganda and political action in support of the ruling Junta’s plans to pacify the country and hold elections to establish a civilian, constitutional government.
 
