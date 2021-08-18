@@ -406,14 +406,14 @@ A review of CIA's files has uncovered no evidence that CIA officers and employee
   When the presidential election was finally held in July 1966, Barrientos won easily, and officials concerned with the covert operation concluded that the objectives of the program—the _end of military rule_ and a _civilian, constitutional government_ whose _policies would be compatible with those of the United States—had been accomplished._ [1](https://history.state.gov/historicaldocuments/frus1964-68v31/d147)
   
  - In 1962, the Chairman of the Joint Chiefs of Staff for the DoD approved a draft plan, known as Operation [Northwoods](https://ia600908.us.archive.org/7/items/pdfy-vlGx2NTBHA-M19I3/Operation%20NORTHWOODS%20Document%20-%20Official%20Origin%20of%20Modern%20US%20False-Flag%20Attacks.pdf), which authorised:
-  - Start rumors 
-  - Land friendly Cubans in uniform "over the fence" to stage attack on base
-  - Capture (friendly) saboteurs inside base
-  - Start riots near base (friendly Cubans)
-  - Blow up ammunition inside the base; start fired.
-  - Sink ship near harbor entrance. Conduct funerals for mock-victims.
+   - Start rumors 
+   - Land friendly Cubans in uniform "over the fence" to stage attack on base
+   - Capture (friendly) saboteurs inside base
+   - Start riots near base (friendly Cubans)
+   - Blow up ammunition inside the base; start fired.
+   - Sink ship near harbor entrance. Conduct funerals for mock-victims.
     It goes on to say, "we could blow up a drone (unmanned) vessel anywhere in the Cuban waters."
-    The media has incorrect claimed that the plans were intended to cause harm to civilians.
+     The media has incorrect claimed that the plans were intended to cause harm to civilians.
 
 - In 1954, Guatemala saw a military Junta, led by Carlos Castillo Armas, in a coup against the Árbenz government. It has been alleged the CIA had a role in this coup. The reason for this being a popularly held belief is that declassified CIA records do indeed outline CIA plans for such an activity, such as training exiles, assassination lists, etc. These are known as PBFORTUNE and PBSUCCESS. However: This [never came to fruition](https://web.archive.org/web/20180609064148/https://www.cia.gov/library/readingroom/docs/DOC_0000135796.pdf). No Árbenz official or Guatemalan Communist were killed—due to US plans being dropped. 
  
