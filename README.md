@@ -413,7 +413,8 @@ A review of CIA's files has uncovered no evidence that CIA officers and employee
    - Blow up ammunition inside the base; start fired.
    - Sink ship near harbor entrance. Conduct funerals for mock-victims.
     It goes on to say, "we could blow up a drone (unmanned) vessel anywhere in the Cuban waters."
-     The media has incorrect claimed that the plans were intended to cause harm to civilians.
+     
+    The media has incorrect claimed that the plans were intended to cause harm to civilians.
 
 - In 1954, Guatemala saw a military Junta, led by Carlos Castillo Armas, in a coup against the Árbenz government. It has been alleged the CIA had a role in this coup. The reason for this being a popularly held belief is that declassified CIA records do indeed outline CIA plans for such an activity, such as training exiles, assassination lists, etc. These are known as PBFORTUNE and PBSUCCESS. However: This [never came to fruition](https://web.archive.org/web/20180609064148/https://www.cia.gov/library/readingroom/docs/DOC_0000135796.pdf). No Árbenz official or Guatemalan Communist were killed—due to US plans being dropped. 
  
